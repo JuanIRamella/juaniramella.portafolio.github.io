@@ -1,0 +1,5 @@
+videoplayback[[:space:]]-[[:space:]]Trim[[:space:]]-[[:space:]]Trim.webm~ filter=lfs diff=lfs merge=lfs -text
+C:/JaP_fase_2/portafolio/images/videoplayback[[:space:]]-[[:space:]]Trim[[:space:]]-[[:space:]]Trim.webm filter=lfs diff=lfs merge=lfs -text
+.webm filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+webm filter=lfs diff=lfs merge=lfs -text
